@@ -1,5 +1,6 @@
 // in lib.rs
 
-pub mod first;
-pub mod second;
-pub mod third;
+pub mod basic_impl;
+pub mod doubly_linked_deque;
+pub mod generic_and_iterators;
+pub mod persistent_stack;
